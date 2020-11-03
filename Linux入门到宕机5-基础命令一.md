@@ -6,7 +6,7 @@
 
 所有目录都是从**/(根目录)**开始。每个目录都有它的作用，这里就不一一展开了。有兴趣的同学可以看看这篇文章。[https://www.runoob.com/linux/linux-system-contents.html](https://www.runoob.com/linux/linux-system-contents.html)
 
-![image47056.png](https://zxx.sh/images/2020/10/29/image47056.png)
+![image47056.png](http://zxx.sh/images/2020/10/29/image47056.png)
 
 **查看当前所在目录的路径(这里我以/root/test目录为例)**
 
@@ -16,7 +16,7 @@ pwd 显示当前**文件夹的绝对路径**。其中**红框**圈起来的就�
 pwd
 ```
 
-![image0a48e.png](https://zxx.sh/images/2020/10/29/image0a48e.png)
+![image0a48e.png](http://zxx.sh/images/2020/10/29/image0a48e.png)
 
 **查看目录的文件**
 
@@ -25,14 +25,14 @@ pwd
 ls
 ```
 
-![image.png](https://zxx.sh/images/2020/10/29/image.png)
+![image.png](http://zxx.sh/images/2020/10/29/image.png)
 
 ```shell
 # 也可以查看用户输入的目录里面有什么文件
 ls /
 ```
 
-![image-20201029231251711.png](https://zxx.sh/images/2020/10/29/image-20201029231251711.png)
+![image-20201029231251711.png](http://zxx.sh/images/2020/10/29/image-20201029231251711.png)
 
 **访问文件**
 
@@ -89,7 +89,7 @@ cd /root/test/file2
 
 （1）返回多级目录，从**/root/test/file**返回到**root**目录
 
-![imagee1486.png](https://zxx.sh/images/2020/10/29/imagee1486.png)
+![imagee1486.png](http://zxx.sh/images/2020/10/29/imagee1486.png)
 
 （2）如果你仔细看上面的图你就会发现root目录的文件夹名字是波浪号~
 
@@ -108,7 +108,7 @@ cd
 
 我们可以这样做。
 
-![image65473.png](https://zxx.sh/images/2020/10/29/image65473.png)
+![image65473.png](http://zxx.sh/images/2020/10/29/image65473.png)
 
 如你所见，cd -号即可。返回的时候会显示返回的目录路径。
 
@@ -122,7 +122,7 @@ cd -
 
 以下图为例，我们如果想进入baby这个文件夹，只需要输入ba + tab键即可补全文件夹名字。如果你输入的名字（**file**）匹配到多个文件(**file1、filefile**)，则系统会让你重新输入（更完整的名字例如：**filef**）来匹配。
 
-![image57860.png](https://zxx.sh/images/2020/10/29/image57860.png)
+![image57860.png](http://zxx.sh/images/2020/10/29/image57860.png)
 
 ### 总结
 

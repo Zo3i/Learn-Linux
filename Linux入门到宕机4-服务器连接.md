@@ -14,15 +14,15 @@
 > - 点击文件
 > - 点击新建
 
-![image.png](https://zxx.sh/images/2020/10/26/image.png)
+![image.png](http://zxx.sh/images/2020/10/26/image.png)
 
 > - 在**连接**中填写服务器**名称**、**协议**（默认就是SSH）、**主机**（也就是你的公网IP）、**端口号**（SSH登录端口，默认是22）
 
-![image0d0b5.png](https://zxx.sh/images/2020/10/26/image0d0b5.png)
+![image0d0b5.png](http://zxx.sh/images/2020/10/26/image0d0b5.png)
 
 > - 以上填写完之后，我们需要填写登录方式（1.账号密码登录、2.秘钥登录）这里我们只介绍账号**密码登录**的方式。**用户名**默认为**root**,密码则为上一篇面板使用教程中，我们所设置的**密码**。
 
-![image-20201026230715376.png](https://zxx.sh/images/2020/10/26/image-20201026230715376.png)
+![image-20201026230715376.png](http://zxx.sh/images/2020/10/26/image-20201026230715376.png)
 
 **填写完成之后，确认即可。**
 
@@ -57,7 +57,7 @@ wget http://zxx.sh/file/bash/game.sh
 bash game.sh
 ```
 
-![image61e16.png](https://zxx.sh/images/2020/10/26/image61e16.png)
+![image61e16.png](http://zxx.sh/images/2020/10/26/image61e16.png)
 
 ### 总结
 

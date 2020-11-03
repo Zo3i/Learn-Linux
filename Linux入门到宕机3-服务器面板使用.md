@@ -8,11 +8,11 @@
 
 完成以上操做就可以看到我们所购买的服务器，其中红色框圈起来的就是服务器的公网IP和内网IP。我们这边只需要**记住公网IP**。
 
-![imageb77f9.png](https://zxx.sh/images/2020/10/22/imageb77f9.png)
+![imageb77f9.png](http://zxx.sh/images/2020/10/22/imageb77f9.png)
 
 **接下来我们需要先重置服务器密码，再重启服务器。**
 
-![imagef3a2f.png](https://zxx.sh/images/2020/10/22/imagef3a2f.png)
+![imagef3a2f.png](http://zxx.sh/images/2020/10/22/imagef3a2f.png)
 
 ---
 
@@ -27,7 +27,7 @@
 
 控制面板还有一块很重要的内容就是防火墙。因为我们服务器是在公网使用的，所以也就是所有人都可以访问到我们的服务器，包括黑客和攻击者。所以我们必须保证服务器的安全，设置一些防火墙。在前置知识中提到了我们的每个端口就对应一个服务，所以如果我们把某个服务开放给所有人访问就可以开启这些对应的端口。
 
-![image91f22.png](https://zxx.sh/images/2020/10/22/image91f22.png)
+![image91f22.png](http://zxx.sh/images/2020/10/22/image91f22.png)
 
 在Ucloud中在这里开放你所需要的服务端口。
 
