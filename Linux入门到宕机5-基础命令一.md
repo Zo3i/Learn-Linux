@@ -104,7 +104,7 @@ cd
 
 （3）返回上一次所在的文件夹
 
-假设我当前的目录是**/usr/local/nginx/conf**,我想进入**/root/file/test**,之后我又想返回到**/usr/local/nginx/conf**
+假设我当前的目录是**/usr/local/nginx/conf**,我想进入**/root/test/file**,之后我又想返回到**/usr/local/nginx/conf**
 
 我们可以这样做。
 
