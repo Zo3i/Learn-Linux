@@ -16,7 +16,7 @@ Linux 并不是什么高深的技术。就算不从事计算机行业的人也�
 ping baidu.com
 ```
 
-![imagea0969.png](http://zxx.sh/images/2020/10/19/imagea0969.png)
+![imagea0969.png](https://zxx.sh/images/2020/10/19/imagea0969.png)
 
 查看到的IP就是百度域名对应的IP。每个地区解析出来的可能不一样，这个内容有关CDN，感兴趣的小伙伴自行百度这里不再赘述。我们可以在浏览器中输入这个IP就可以访问到百度了。
 
@@ -33,7 +33,7 @@ ping baidu.com
 
 所以端口对应的就是服务器上不同的服务，我们通过访问IP+端口来区分服务。
 
-![3.png](http://zxx.sh/images/2020/10/27/3.png)
+![3.png](https://zxx.sh/images/2020/10/27/3.png)
 
 ### IPV4与IPV6
 
